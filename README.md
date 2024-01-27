@@ -18,7 +18,7 @@ Activer l'environement que nous avons creer
 
 $ activate
 
-## Installation des dependences
+## Installation des dependances
 
 $ pip install flask
 
