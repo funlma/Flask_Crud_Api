@@ -14,7 +14,7 @@ $ py -m venv .
 
 $ cd Scripts
 
-Activer l'environe;ent que nous avons creer
+Activer l'environement que nous avons creer
 
 $ activate
 
