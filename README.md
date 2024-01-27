@@ -9,6 +9,7 @@ Il faut d'abord creer un environement de dev
   - Ouvrir un terminal dans ce dossier
 
   - Taper les commandes suivantes pour creer l'environement
+    
 $ py -m venv .
 
 $ cd Scripts
